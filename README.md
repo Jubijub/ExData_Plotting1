@@ -1,3 +1,18 @@
+# Exploratory Data Analysis Peer graded assignment #1 by Jubijub
+
+##Howto
+1. source("plot1.R")
+2. source("plot2.R")
+3. source("plot3.R")
+4. source("plot4.R")
+
+## Troubleshooting
+### The zip file doesn't download
+As those R scripts have been developped on a Windows machine, I had to remove the `method="curl"` from the download method. Should you test this script on a Mac or on Linux, you can simply download the zip file manually (here)[https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip] and run the scripts as indicated above.
+
+
+---
+(original Readme file)
 ## Introduction
 
 This assignment uses data from
